@@ -4,7 +4,7 @@ This program uses input data via questionnaire-style prompts for the number of d
 The previous months leftover food should be deducted from the total required and then 20% added to calculate the grand total.
 My Story Writeup, Analysis and Approach for the Project
 Story:
-As a dog shelter operator, I need be able to accurately calculate the dog food requirements each month so that I can order the proper amount of food each month in order to operate the shelter in a costly and efficient manner.
+As a dog shelter operator, I need to be able to accurately calculate the dog food requirements each month so that I can order the proper amount of food each month in order to operate the shelter in a costly and efficient manner.
 AC:
 •	Dog shelter can hold a maximum of 30 dogs at any given time.
 •	Small dogs require 10lbs. of food.
