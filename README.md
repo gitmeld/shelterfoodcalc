@@ -13,7 +13,7 @@ AC:
 •	Remaining dog food from the previous month if any, should be deducted from the total required before the 20% is added.
 •	When ordering food always add at least 20% more than the minimum needed to feed all dogs currently in your shelter for the month.
 •	Acceptable values should be positive integers.
-•	Formula to order dog food. (small dogs x 10) + (medium dogs x 20) + (large dogs x 30) - (leftover food from previous month) x 1.20 = Grand total of dog food in lbs. that needs to be ordered.
+•	Formula to order dog food. (small dogs x 10) + (medium dogs x 20) + (large dogs x 30) - (leftover food from previous month) x 1.20 = Grand total of dog food         in lbs. that needs to be ordered.
 •	Program should be written in Java or Python.
 •	Function will take the number of each size of dogs currently in the shelter and remaining food from the last month then return a grand total to order.
 •	Project should exist in GitHub.
